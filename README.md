@@ -1,6 +1,9 @@
 <div align = "center"> <h1> GreenBoogie 웹, 모바일 <img width="25" alt="greenboogieboogie" src="https://github.com/zzizi6/sublindway_A/assets/103871252/1261bc77-4362-42be-ab6f-c132f0e4b9bc">
  </h1>  </div>
 
+## 메인 깃허브 링크
+[Github](https://github.com/zzizi6/sublindway)
+
 ## 설명
 - 유저의 접근성을 고려하여 카카오 간편 로그인 구현
 - 카카오맵 api를 사용하여 유저의 승차 하차 위치를 표시
